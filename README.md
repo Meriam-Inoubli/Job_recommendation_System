@@ -170,8 +170,8 @@ Le système générera une lettre de motivation personnalisée basée sur votre 
 Consultez les statistiques sur les compétences techniques, les langages de programmation, les localisations et les titres de poste les plus demandés.
 
 ## Auteur 👩‍💻
-Meriam Inoubli : meriam.inoubli@dauphine.tn.
-Ferdaws Ziadia : ferdaws.ziadia@dauphine.tn.
+- Meriam Inoubli : meriam.inoubli@dauphine.tn
+- Ferdaws Ziadia : ferdaws.ziadia@dauphine.tn
 
 ## Licence 📜
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
