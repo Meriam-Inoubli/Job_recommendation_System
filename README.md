@@ -1,7 +1,7 @@
 # Job Recommendation System 💼🔍
 
 Ce projet est un système de recommandation d'emplois basé sur le traitement du langage naturel (NLP). Il analyse le CV de l'utilisateur et recommande les 20 meilleurs emplois alignés avec son profil. Les offres d'emploi sont extraites de LinkedIn et Indeed. De plus, l'utilisateur peut générer une lettre de motivation pour une offre spécifique et obtenir des statistiques détaillées sur les compétences techniques et les langages les plus demandés.
-Lien vers l'application: 
+ 
 
 ![image](https://github.com/user-attachments/assets/e9689be7-eabf-42a6-b4c7-0a20ed36c8fd)
 
