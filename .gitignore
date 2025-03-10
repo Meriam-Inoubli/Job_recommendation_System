@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Streamlit configuration
+.streamlit/
+
+# Virtual environment
+env/
+
+# Logs
+*.log
+
+# Build files
+dist/
+build/
+
+# IDE/Editor specific files
+.vscode/
+.idea/
